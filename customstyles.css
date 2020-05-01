@@ -1,0 +1,38 @@
+.card {
+    background-color: #FEFFFF;
+    border: solid;
+    border-color:#3AAFA9;
+}
+
+.card-col {
+    margin-bottom: 50px;
+}
+
+.card-title {
+    color: #17252A;
+    font-size: 21px;
+    text-decoration: underline;
+}
+
+.card-text {
+    color:#17252A;
+    font-size: 18px;
+}
+
+.card-git {
+    width: 25px;
+    height: 25px;
+}
+
+.card-img {
+    width: 75px;
+    height: 75px; 
+    margin-left : auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.icon {
+    vertical-align: middle;
+}
+

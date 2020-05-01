@@ -1,0 +1,19 @@
+
+sass:
+    sass_dir: assets/css
+
+plugins:
+  - jekyll-autoprefixer
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+
+title: Andrew Song # the name of your site, e.g. ACME Corp.
+tagline: Andrew Song | Software Developer
+email: andrewsong61@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+ Java programmer and database specialist dedicated to creating powerful applications 
+author: Andrew Song
+url: "andrewsong.dev" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+google_analytics: UA-111111111-1
